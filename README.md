@@ -1,0 +1,2 @@
+# Qr-generator
+qr-gen
